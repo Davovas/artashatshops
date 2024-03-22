@@ -1,2 +1,2 @@
-# artashatshops
+# artashatshops.github.io
 ArtashatShop
